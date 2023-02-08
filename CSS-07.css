@@ -1,0 +1,31 @@
+.outerbox{
+    background-color:white;
+    width:100%;
+    max-width:1000px;
+    height:100px;
+    box-shadow:5px 5px  rgba(208,215,222);
+}
+.innerbox{
+    background-color: rgb(13, 6, 32);
+    width:85%;
+    height:50px;
+    margin-left:0;
+}
+.text{
+    display: flex;
+    color:rgba(255, 255, 255,0.8);
+    font-family:Raleway,sans-serif;
+    padding-top:15px;
+    padding-left:25px;
+    word-spacing:20px;
+}
+.search{
+    width:15px;
+    height:20px;
+    padding-left:100px;
+}
+.profile{
+    width:15px;
+    height:20px;
+    padding-left:50px;
+}
