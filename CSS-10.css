@@ -1,0 +1,73 @@
+div.container{
+    display: flex;
+    box-shadow: 0 0 10px grey;
+    width:750px;
+    height:300;
+}
+.sedans{
+    color:white;
+    background-color:#e38826;
+    width:250px;
+    height:300px;
+    padding: 20px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.suvs{
+    color:white;
+    background-color:#006970;
+    width:260px;
+    height:300px;
+    padding: 20px;
+}
+.luxury{
+    color:white;
+    background-color:#004241;
+    width:270px;
+    height:300px;
+    padding: 20px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+h2{
+    font-size:30px;
+    font-family: sans-serif;
+    padding-top:10px;
+    padding-left: 10px;
+}
+.para{
+    padding-top:10px;
+    padding-left: 10px;
+    font-size:15px;
+    font-family:'Times New Roman', Times, serif;
+}
+.LM1{
+    background-color: white;
+    color:#e38826;
+    width:130px;
+    height:45px;
+    padding-top:15px;
+    border-radius:120px;
+    text-align:center;
+    font-size:15px;
+}
+.LM2{
+    background-color: white;
+    color:#006970;
+    width:130px;
+    height:45px;
+    border-radius:120px;
+    text-align:center;
+    padding-top:15px;
+    font-size:15px;
+}
+.LM3{
+    background-color: white;
+    color:#004241;
+    width:130px;
+    height:45px;
+    border-radius:120px;
+    text-align:center;
+    padding-top:15px;
+    font-size:15px;
+}
